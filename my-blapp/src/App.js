@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Is your birth Date Luck ?</h1>
+      <h1>Is your birth Date Lucky ?</h1>
       <div className="Container">
         <h2>Your Date of Birth</h2>
         <input
